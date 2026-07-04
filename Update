@@ -1,5 +1,13 @@
 {
-  "versionName": "5.0",
-  "Msg": "تحديث جديد متوفر! يُرجى تحديث التطبيق لمتابعة استخدامه.\n\nالجديد في هذا الإصدار:\n- تحسينات في الأداء.\n- إصلاحات للأخطاء.\n- ميزات جديدة مُضافة.\n- تغييرات طفيفة أخرى.\n\nشكرًا لاستخدامك تطبيقنا.",
-  "downloadLink": "https://t.me/AXMods_OFFICIAL"
+  "Version": "5.0",
+  "Title": "UPDATE AVAILABLE",
+  "Subtitle": "New Version 5.0",
+  "Features": "Fixed Bugs,Enhanced Features",
+  "Description": "A mandatory new version is available with enhanced security, improved performance, and important fixes.",
+  "BtnLater": "LATER",
+  "BtnUpdate": "UPDATE",
+  "Url": "https://t.me/AXMods_OFFICIAL",
+  "ForceUpdate": false,
+  "Reminder": "2h",      
+  "BtnTimer": 0         
 }
